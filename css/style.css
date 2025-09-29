@@ -1,6 +1,21 @@
 .bg-blue
 {
-    background-color: hwb(199 4% 13%);
+    background-color: #0a9bde;
+}
+
+.bg-light-blue
+{
+    background-color:#00ccff;
+}
+
+.bg-very-light-blue
+{
+    background-color:#7fffff;
+}
+
+.white-writing
+{
+    color:#ffffff;
 }
 
 .header-style
@@ -29,4 +44,14 @@
 .text-small
 {
     font-size: 80%;
+}
+
+.bg-yellow
+{
+    background-color:#ffff00;
+}
+
+.table-width-50
+{
+    width:50%;
 }
