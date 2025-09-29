@@ -1,0 +1,17 @@
+.bg-blue
+{
+    background-color: hwb(199 4% 13%);
+}
+
+.header-style
+{
+    height: 120px;
+    background-image: url("../img/pattern.png");
+    background-size:36%;
+    background-repeat:repeat-x;
+}
+
+.header-image
+{
+    height: 60px;
+}
