@@ -15,3 +15,18 @@
 {
     height: 60px;
 }
+
+.text-aqua
+{
+    color: aqua;
+}
+
+.text-gray
+{
+    color:gray;
+}
+
+.text-small
+{
+    font-size: 80%;
+}
