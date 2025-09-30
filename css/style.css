@@ -18,6 +18,11 @@
     color:#ffffff;
 }
 
+table
+{
+    border-collapse:collapse;
+}
+
 .header-style
 {
     height: 120px;
